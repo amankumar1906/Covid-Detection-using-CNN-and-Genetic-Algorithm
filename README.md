@@ -1,0 +1,1 @@
+# Covid-Detection-using-CNN-and-Genetic-Algorithm
